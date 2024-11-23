@@ -1,5 +1,3 @@
-![](portait.svg)
-
 Hi, I’m Eric Gozzi, an architect and computational designer who spends more time staring at reflections than I'd care to admit. Currently based in Zürich, I’m navigating the world of architecture through a Master’s program at ETH Zurich.
 
 I started my journey at EPF Lausanne, where I managed to get a Bachelor’s in Architecture without completely losing my sanity. Then, I took off for Hamburg and Berlin, where I gained some valuable working experience and figured out how to order a good coffee in more languages.
