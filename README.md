@@ -6,8 +6,6 @@ When I’m not designing buildings or getting lost in code, you can find me trai
 
 So, whether I’m designing the next big thing, sweating through a triathlon, or cooking up a storm, I’m always looking for new ways to push boundaries—except when it comes to dessert, that’s sacred.
 
-Enter in my [cosmic garage](https://cosmicgarage.ch)
-
-Get to know [PHOEBE](https://cosmicgarage.ch)
-
-Try the [digital typewriter](https://typewriter.cosmicgarage.ch)
+- Enter in my [cosmic garage](https://cosmicgarage.ch)
+- Get to know [PHOEBE](https://cosmicgarage.ch)
+- Try the [digital typewriter](https://typewriter.cosmicgarage.ch)
